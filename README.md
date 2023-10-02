@@ -12,7 +12,7 @@ I'm [Nirmal Kumar](https://tndev.in/), I'm an experienced full-stack web develop
 **Currently I am working ...**
 
 - <div>
-    <img width="250" height="100" align='left' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/edneed.jpg" >
+    <img width="250" height="100" align='left' src="https://github.com/NirmaLKumar26/TSRO/blob/main/assets/img/tser-banner.png" >
     ... as a <strong>Software Developer Intern</strong> at EdNeed Technologies Pvt. Ltd. where I have been assisting in the (design and) development of the flagship remote education portal, Edneed.com, using the MERN tech stack.
     <br />
     <strong>View: </strong> <a href="https://edneed.com" >edneed.com</a> 
@@ -21,10 +21,10 @@ I'm [Nirmal Kumar](https://tndev.in/), I'm an experienced full-stack web develop
   </div>
 
 - <div>
-     <img width="250" height="100" align='right' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/gfg.png" >
+     <img width="250" height="100" align='right' src="https://github.com/NirmaLKumar26/TSRO/blob/main/assets/img/tser-banner.png" >
      ... as a <strong>Technical Content Writer</strong> intern at Geeks for Geeks where I have penned down 20+ comprehensive and detailed articles covering multiple programming languages and Data Structures & Algorithms concepts.
      <br />
-     <strong>View: </strong> <a href="https://auth.geeksforgeeks.org/user/verma_anushka/articles" >Geeks for Geeks</a> 
+     <strong>View: </strong> <a href="https://tndev.in" >The Cloud Dude Networks</a> 
      <br /> 
    </div>
 
