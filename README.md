@@ -12,21 +12,13 @@ I'm [Nirmal Kumar](https://tndev.in/), I'm an experienced full-stack web develop
 **Currently I am working ...**
 
 - <div>
-    <img width="250" height="100" align='left' src="https://github.com/NirmaLKumar26/TSRO/blob/main/assets/img/tser-banner.png" >
+    <img width="450" height="100" align='center' src="https://github.com/NirmaLKumar26/TSRO/blob/main/assets/img/tser-banner.png" >
     ... as a <strong>Software Developer Intern</strong> at EdNeed Technologies Pvt. Ltd. where I have been assisting in the (design and) development of the flagship remote education portal, Edneed.com, using the MERN tech stack.
     <br />
-    <strong>View: </strong> <a href="https://edneed.com" >edneed.com</a> 
+    <strong>Developers: </strong> <a href="https://tndev.in" >Cloud Dude Networks</a> 
     <br /> 
     <br /> 
   </div>
-
-- <div>
-     <img width="250" height="100" align='right' src="https://github.com/NirmaLKumar26/TSRO/blob/main/assets/img/tser-banner.png" >
-     ... as a <strong>Technical Content Writer</strong> intern at Geeks for Geeks where I have penned down 20+ comprehensive and detailed articles covering multiple programming languages and Data Structures & Algorithms concepts.
-     <br />
-     <strong>View: </strong> <a href="https://tndev.in" >The Cloud Dude Networks</a> 
-     <br /> 
-   </div>
 
   ***
 
@@ -47,8 +39,8 @@ I'm [Nirmal Kumar](https://tndev.in/), I'm an experienced full-stack web develop
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=NirmaLKumar26&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmaLKumar26&count_private=true&theme=dracula">
 
 </p>
 
@@ -78,6 +70,6 @@ I'm [Nirmal Kumar](https://tndev.in/), I'm an experienced full-stack web develop
 
 <div align="right">
   
-[![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+[![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka)
 
 </div>
